@@ -1,0 +1,31 @@
+{
+	"item.folklorearcana.example_item": "Example Item",
+	"item.folklorearcana.lightning_item": "Lightning",
+	"item.folklorearcana.vine_item": "Vine",
+	
+	"item.folklorearcana.example_sword": "Example Sword",
+	"item.folklorearcana.example_pickaxe": "Example Pickaxe",
+	"item.folklorearcana.example_axe": "Example Axe",
+	"item.folklorearcana.example_shovel": "Example Shovel",
+	"item.folklorearcana.example_hoe": "Example Hoe",
+	
+	
+	
+	"item.folklorearcana.example_helmet": "Example Helmet",
+	"item.folklorearcana.example_chestplate": "Example Chestplate",
+	"item.folklorearcana.example_leggings": "Example Leggings",
+	"item.folklorearcana.example_boots": "Example Boots",
+	"item.folklorearcana.test_helmet": "Test Helmet"
+	
+	
+	
+	
+	
+	
+	"block.folklorearcana.example_block": "Example Block",
+	"block.folklorearcana.gilded_marble_block": "Gilded Marble",
+	"block.folklorearcana.special_block": "Special Block",
+	
+	"itemGroup.folklorearcana": "Folklore Arcana"
+	
+}
